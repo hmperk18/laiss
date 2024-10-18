@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v2.0.3
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: hmlperkins@gmail.com
+author_name: uiucsn
+custom_install: false
+package_name: laiss
+project_license: MIT
+project_name: laiss
+project_organization: uiucsn
